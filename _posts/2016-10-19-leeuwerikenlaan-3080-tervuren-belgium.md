@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-10-19T11:03:45.274Z'
+datePublished: '2016-10-19T11:04:02.475Z'
 inFeed: true
 isBasedOnUrl: >-
   https://www.google.com/maps/place/Leeuwerikenlaan,+3080+Tervuren,+Belgium/@50.8594386,4.5406813,17z/data=!3m1!4b1!4m5!3m4!1s0x47c3dec3d37ccdef:0xc0d9f3c64f376222!8m2!3d50.8589234!4d4.5424138
@@ -7,7 +7,7 @@ keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-10-19T11:03:20.088Z'
+dateModified: '2016-10-19T11:04:01.893Z'
 title: 'Leeuwerikenlaan, 3080 Tervuren, Belgium'
 app_links: []
 publisher:
@@ -16,8 +16,8 @@ publisher:
   favicon: 'https://www.google.com/images/branding/product/ico/maps_32dp.ico'
   domain: www.google.com
 description: 'Contact me:'
-starred: false
 sourcePath: _posts/2016-10-19-leeuwerikenlaan-3080-tervuren-belgium.md
+starred: false
 _context: 'http://schema.org'
 _type: Place
 
