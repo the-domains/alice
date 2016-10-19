@@ -4,22 +4,22 @@
         <description><![CDATA[Healing Hands]]></description>
         <link>https://thegrid.ai/alice/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 19 Oct 2016 11:04:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Oct 2016 11:04:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/alice/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 19 Oct 2016 11:04:12 GMT</pubDate>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<blockquote>The link you followed may have expired, or the Facebook Page may only be visible to an audience you&apos;re not in.</blockquote>]]></description>
-            <link>https://www.facebook.com/HealingHands.ee/photos/</link>
-            <guid isPermaLink="false">347d447d-6999-4bd6-8c13-6981d957b78f</guid>
-            <pubDate>Wed, 19 Oct 2016 11:04:11 GMT</pubDate>
-        </item>
+        <pubDate>Wed, 19 Oct 2016 11:04:24 GMT</pubDate>
         <item>
             <title><![CDATA[Leeuwerikenlaan, 3080 Tervuren, Belgium]]></title>
             <description><![CDATA[<article><h1>Leeuwerikenlaan, 3080 Tervuren, Belgium</h1><p>Contact me:</p></article>]]></description>
             <link>https://www.google.com/maps/place/Leeuwerikenlaan,+3080+Tervuren,+Belgium/@50.8594386,4.5406813,17z/data=!3m1!4b1!4m5!3m4!1s0x47c3dec3d37ccdef:0xc0d9f3c64f376222!8m2!3d50.8589234!4d4.5424138</link>
             <guid isPermaLink="false">f815699e-7499-436e-b6fe-ef18de7ca557</guid>
             <pubDate>Wed, 19 Oct 2016 11:04:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<blockquote>The link you followed may have expired, or the Facebook Page may only be visible to an audience you&apos;re not in.</blockquote>]]></description>
+            <link>https://www.facebook.com/HealingHands.ee/photos/</link>
+            <guid isPermaLink="false">347d447d-6999-4bd6-8c13-6981d957b78f</guid>
+            <pubDate>Wed, 19 Oct 2016 11:04:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
