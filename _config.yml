@@ -31,10 +31,6 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: Eesti keel
-    url: 'http://thegrid.ai/healinghands/'
-    type: external
 favicon: null
 title: Healing Hands
 content: []
