@@ -39,6 +39,6 @@ purpose:
   - type: contact
     url: 'tel:+372 5349 2723'
     label: Call +372 5349 2723
-  - type: contact
-    url: 'mailto:aliceluukas@gmail.com'
-    label: Contact me
+  - type: external
+    url: 'http://thegrid.ai/tervendamine/'
+    label: Eesti keel
